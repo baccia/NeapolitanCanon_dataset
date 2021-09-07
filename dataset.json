@@ -36735,6 +36735,20 @@
         "call_no": null,
         "notes": "Non è stata rilevata la segnatura attuale."
     },
+    "1827-0000": {
+        "inventory": "1827",
+        "page": "1",
+        "id": "0000",
+        "transcription": "Abos Girolamo. Messa à 4. voci",
+        "composer_names": "Abos, Girolamo {RISM:438}",
+        "other_names": null,
+        "holding": "http://patrimonio.archiviodistatonapoli.it/",
+        "links": "http://id.sbn.it/bid/MSM0085833",
+        "references": "Cafiero 1993",
+        "original_call_no": "1",
+        "call_no": "I-Nc Mus.Rel. 7-8@01 olim 21.5.17(1)",
+        "notes": null
+    },
     "1827-0001": {
         "inventory": "1827",
         "page": "1",
@@ -57483,32 +57497,4 @@
         "call_no": null,
         "notes": null
     },
-    "1827-1609": {
-        "inventory": "1827",
-        "page": "1",
-        "id": "1609",
-        "transcription": "Abos Girolamo. Messa à 4. voci",
-        "composer_names": "Abos, Girolamo {RISM:438}",
-        "other_names": null,
-        "holding": "http://patrimonio.archiviodistatonapoli.it/",
-        "links": "http://id.sbn.it/bid/MSM0085833",
-        "references": "Cafiero 1993",
-        "original_call_no": "1",
-        "call_no": "I-Nc Mus.Rel. 7-8@01 olim 21.5.17(1)",
-        "notes": null
-    },
-    "-1483": {
-        "inventory": null,
-        "page": null,
-        "id": "1483",
-        "transcription": null,
-        "composer_names": null,
-        "other_names": null,
-        "holding": null,
-        "links": null,
-        "references": null,
-        "original_call_no": null,
-        "call_no": null,
-        "notes": null
-    }
 }
