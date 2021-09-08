@@ -6,6 +6,8 @@ It comprises at present:
 - the 1801 printed catalogue (known copies are preserved in A-Wn, I-Nc and I-Vnm)
 - the 1819 manuscript catalogue of the Arditi collection (I-Nc Archivio storico Ministeriali 9/1074)
 - the 1823 manuscript catalogue fragment of the Conservatoire collection (I-Nc F.30 olim S.Dir.6-8)
+- the 1827 manuscript post mortem inventory of Sigismondo's personal collection (I-Na PI n. 85 fasc. 92)
+The last inventory at present is only a transcription and is still without the identifications with the sources preserved today.
 ## Contributing
 If you like to contribute with corrections or additions, please contact <claudio.bacciagaluppi@hkb.bfh.ch> and/or <giulia.giovani@unisi.it>.
 ## Licence
