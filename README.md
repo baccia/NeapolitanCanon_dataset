@@ -13,4 +13,4 @@ The last inventory at present is only a transcription and is still without the i
 If you like to contribute with corrections or additions, please contact <claudio.bacciagaluppi@hkb.bfh.ch> and/or <giulia.giovani@unisi.it>.
 ## Licence
 Data are published under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Creators are Claudio Bacciagaluppi and Giulia Giovani.
-https://zenodo.org/badge/DOI/10.5281/zenodo.5551836.svg
+[![DOI](https://zenodo.org/badge/333383897.svg)](https://zenodo.org/badge/latestdoi/333383897)
